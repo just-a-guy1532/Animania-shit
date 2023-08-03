@@ -1,0 +1,127 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				43,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				52,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				81
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				31,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				52,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				185
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "intro",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				111
+			],
+			"anim": "cat",
+			"fps": 24,
+			"name": "cat",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				81
+			],
+			"anim": "tadanokun",
+			"fps": 24,
+			"name": "talk",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"healthicon_scale": 1,
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/Komi/KomiPCside",
+	"position": [
+		1210,
+		100
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		150,
+		65,
+		255
+	],
+	"healthicon": "komi",
+	"flip_x": false,
+	"healthbar_colors": [
+		150,
+		65,
+		255
+	],
+	"camera_position": [
+		-470,
+		-110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

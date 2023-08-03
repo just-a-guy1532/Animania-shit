@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="amTakeBoyfriend.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hey0000" x="2" y="2" width="378" height="444" frameX="10" frameY="0" frameWidth="385" frameHeight="444"/>
+	<SubTexture name="Hey0001" x="382" y="2" width="385" height="444" frameX="12" frameY="0" frameWidth="385" frameHeight="444"/>
+	<SubTexture name="Hey0002" x="382" y="2" width="385" height="444" frameX="12" frameY="0" frameWidth="385" frameHeight="444"/>
+	<SubTexture name="Hey0003" x="769" y="2" width="384" height="443" frameX="11" frameY="-1" frameWidth="385" frameHeight="444"/>
+	<SubTexture name="Hey0004" x="769" y="2" width="384" height="443" frameX="11" frameY="-1" frameWidth="385" frameHeight="444"/>
+	<SubTexture name="Hey0005" x="2" y="448" width="383" height="443" frameX="10" frameY="-1" frameWidth="385" frameHeight="444"/>
+	<SubTexture name="Hey0006" x="2" y="448" width="383" height="443" frameX="10" frameY="-1" frameWidth="385" frameHeight="444"/>
+	<SubTexture name="Hey0007" x="387" y="448" width="383" height="443" frameX="10" frameY="-1" frameWidth="385" frameHeight="444"/>
+	<SubTexture name="Hey0008" x="387" y="448" width="383" height="443" frameX="10" frameY="-1" frameWidth="385" frameHeight="444"/>
+	<SubTexture name="Hey0009" x="387" y="448" width="383" height="443" frameX="10" frameY="-1" frameWidth="385" frameHeight="444"/>
+	<SubTexture name="Hey0010" x="387" y="448" width="383" height="443" frameX="10" frameY="-1" frameWidth="385" frameHeight="444"/>
+	<SubTexture name="Hey0011" x="387" y="448" width="383" height="443" frameX="10" frameY="-1" frameWidth="385" frameHeight="444"/>
+	<SubTexture name="Hey0012" x="387" y="448" width="383" height="443" frameX="10" frameY="-1" frameWidth="385" frameHeight="444"/>
+	<SubTexture name="Hey0013" x="387" y="448" width="383" height="443" frameX="10" frameY="-1" frameWidth="385" frameHeight="444"/>
+	<SubTexture name="Hey0014" x="387" y="448" width="383" height="443" frameX="10" frameY="-1" frameWidth="385" frameHeight="444"/>
+	<SubTexture name="Hey0015" x="387" y="448" width="383" height="443" frameX="10" frameY="-1" frameWidth="385" frameHeight="444"/>
+	<SubTexture name="Idle0000" x="772" y="448" width="371" height="433" frameX="0" frameY="-10" frameWidth="372" frameHeight="443"/>
+	<SubTexture name="Idle0001" x="2" y="893" width="367" height="436" frameX="-1" frameY="-7" frameWidth="372" frameHeight="443"/>
+	<SubTexture name="Idle0002" x="2" y="893" width="367" height="436" frameX="-1" frameY="-7" frameWidth="372" frameHeight="443"/>
+	<SubTexture name="Idle0003" x="371" y="893" width="368" height="441" frameX="-1" frameY="-2" frameWidth="372" frameHeight="443"/>
+	<SubTexture name="Idle0004" x="371" y="893" width="368" height="441" frameX="-1" frameY="-2" frameWidth="372" frameHeight="443"/>
+	<SubTexture name="Idle0005" x="741" y="893" width="369" height="443" frameX="-2" frameY="0" frameWidth="372" frameHeight="443"/>
+	<SubTexture name="Idle0006" x="741" y="893" width="369" height="443" frameX="-2" frameY="0" frameWidth="372" frameHeight="443"/>
+	<SubTexture name="Idle0007" x="2" y="1338" width="370" height="443" frameX="-2" frameY="0" frameWidth="372" frameHeight="443"/>
+	<SubTexture name="Idle0008" x="2" y="1338" width="370" height="443" frameX="-2" frameY="0" frameWidth="372" frameHeight="443"/>
+	<SubTexture name="Idle0009" x="374" y="1338" width="369" height="443" frameX="-3" frameY="0" frameWidth="372" frameHeight="443"/>
+	<SubTexture name="Idle0010" x="374" y="1338" width="369" height="443" frameX="-3" frameY="0" frameWidth="372" frameHeight="443"/>
+	<SubTexture name="Idle0011" x="374" y="1338" width="369" height="443" frameX="-3" frameY="0" frameWidth="372" frameHeight="443"/>
+	<SubTexture name="Idle0012" x="374" y="1338" width="369" height="443" frameX="-3" frameY="0" frameWidth="372" frameHeight="443"/>
+	<SubTexture name="Idle0013" x="374" y="1338" width="369" height="443" frameX="-3" frameY="0" frameWidth="372" frameHeight="443"/>
+	<SubTexture name="Idle0014" x="374" y="1338" width="369" height="443" frameX="-3" frameY="0" frameWidth="372" frameHeight="443"/>
+	<SubTexture name="Idle0015" x="374" y="1338" width="369" height="443" frameX="-3" frameY="0" frameWidth="372" frameHeight="443"/>
+</TextureAtlas>

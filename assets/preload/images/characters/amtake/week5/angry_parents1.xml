@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="angry_parents1.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="8" y="8" width="1022" height="972" frameX="0" frameY="-7" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0001" x="8" y="8" width="1022" height="972" frameX="0" frameY="-7" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0002" x="1038" y="8" width="1017" height="946" frameX="-2" frameY="-33" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0003" x="1038" y="8" width="1017" height="946" frameX="-2" frameY="-33" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0004" x="2063" y="8" width="1016" height="961" frameX="-2" frameY="-18" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0005" x="2063" y="8" width="1016" height="961" frameX="-2" frameY="-18" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0006" x="3087" y="8" width="1003" height="977" frameX="-2" frameY="-2" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0007" x="3087" y="8" width="1003" height="977" frameX="-2" frameY="-2" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0008" x="4098" y="8" width="1000" height="979" frameX="-2" frameY="0" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0009" x="4098" y="8" width="1000" height="979" frameX="-2" frameY="0" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0010" x="5106" y="8" width="1000" height="979" frameX="-2" frameY="0" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0011" x="5106" y="8" width="1000" height="979" frameX="-2" frameY="0" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0012" x="6114" y="8" width="1000" height="979" frameX="-2" frameY="0" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0013" x="6114" y="8" width="1000" height="979" frameX="-2" frameY="0" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="angry begin0000" x="7122" y="8" width="962" height="964" frameX="0" frameY="-13" frameWidth="962" frameHeight="977"/>
+	<SubTexture name="angry begin0001" x="7122" y="8" width="962" height="964" frameX="0" frameY="-13" frameWidth="962" frameHeight="977"/>
+	<SubTexture name="angry begin0002" x="8" y="995" width="958" height="977" frameX="0" frameY="0" frameWidth="962" frameHeight="977"/>
+	<SubTexture name="angry begin0003" x="8" y="995" width="958" height="977" frameX="0" frameY="0" frameWidth="962" frameHeight="977"/>
+	<SubTexture name="angry begin0004" x="974" y="995" width="958" height="977" frameX="0" frameY="0" frameWidth="962" frameHeight="977"/>
+	<SubTexture name="angry begin0005" x="974" y="995" width="958" height="977" frameX="0" frameY="0" frameWidth="962" frameHeight="977"/>
+	<SubTexture name="angry right loop0000" x="1940" y="995" width="957" height="978"/>
+	<SubTexture name="angry right loop0001" x="1940" y="995" width="957" height="978"/>
+	<SubTexture name="angry right loop0002" x="2905" y="995" width="957" height="978"/>
+	<SubTexture name="angry right loop0003" x="2905" y="995" width="957" height="978"/>
+	<SubTexture name="angry right loop0004" x="1940" y="995" width="957" height="978"/>
+	<SubTexture name="angry right loop0005" x="1940" y="995" width="957" height="978"/>
+	<SubTexture name="angry right loop0006" x="3870" y="995" width="957" height="978"/>
+	<SubTexture name="angry right loop0007" x="3870" y="995" width="957" height="978"/>
+	<SubTexture name="angry right loop0008" x="4835" y="995" width="957" height="978"/>
+	<SubTexture name="angry right loop0009" x="4835" y="995" width="957" height="978"/>
+	<SubTexture name="angry right loop0010" x="5800" y="995" width="957" height="978"/>
+	<SubTexture name="angry right loop0011" x="6765" y="995" width="957" height="978"/>
+	<SubTexture name="angry right loop0012" x="8" y="1981" width="957" height="978"/>
+	<SubTexture name="angry right loop0013" x="8" y="1981" width="957" height="978"/>
+	<SubTexture name="angry right loop0014" x="973" y="1981" width="957" height="978"/>
+	<SubTexture name="angry right loop0015" x="973" y="1981" width="957" height="978"/>
+	<SubTexture name="angry right loop0016" x="8" y="1981" width="957" height="978"/>
+	<SubTexture name="angry right loop0017" x="1938" y="1981" width="957" height="978"/>
+	<SubTexture name="angry right loop0018" x="2903" y="1981" width="957" height="978"/>
+	<SubTexture name="angry right loop0019" x="3868" y="1981" width="957" height="978"/>
+	<SubTexture name="angry right loop0020" x="4833" y="1981" width="957" height="978"/>
+	<SubTexture name="angry right loop0021" x="1938" y="1981" width="957" height="978"/>
+	<SubTexture name="angry right loop0022" x="2903" y="1981" width="957" height="978"/>
+	<SubTexture name="angry right loop0023" x="5798" y="1981" width="957" height="978"/>
+	<SubTexture name="angry right loop0024" x="6763" y="1981" width="957" height="978"/>
+	<SubTexture name="angry right loop0025" x="8" y="2967" width="957" height="978"/>
+	<SubTexture name="angry right loop0026" x="973" y="2967" width="957" height="978"/>
+	<SubTexture name="angry right loop0027" x="1938" y="2967" width="957" height="978"/>
+	<SubTexture name="angry right loop0028" x="2903" y="2967" width="957" height="978"/>
+	<SubTexture name="angry right loop0029" x="3868" y="2967" width="957" height="978"/>
+	<SubTexture name="angry right loop0030" x="4833" y="2967" width="957" height="978"/>
+	<SubTexture name="angry right loop0031" x="5798" y="2967" width="957" height="978"/>
+	<SubTexture name="angry right loop0032" x="6763" y="2967" width="957" height="978"/>
+	<SubTexture name="angry right loop0033" x="8" y="3953" width="957" height="978"/>
+	<SubTexture name="angry right loop0034" x="973" y="3953" width="957" height="978"/>
+	<SubTexture name="angry right loop0035" x="1938" y="3953" width="957" height="978"/>
+	<SubTexture name="angry right loop0036" x="2903" y="3953" width="957" height="978"/>
+	<SubTexture name="angry right loop0037" x="3868" y="3953" width="957" height="978"/>
+	<SubTexture name="angry right loop0038" x="4833" y="3953" width="957" height="978"/>
+	<SubTexture name="angry saw left0000" x="5798" y="3953" width="957" height="978"/>
+	<SubTexture name="angry saw left0001" x="6763" y="3953" width="957" height="978"/>
+	<SubTexture name="angry saw left0002" x="8" y="4939" width="957" height="978"/>
+	<SubTexture name="angry saw left0003" x="973" y="4939" width="957" height="978"/>
+	<SubTexture name="angry saw left0004" x="1938" y="4939" width="957" height="978"/>
+</TextureAtlas>

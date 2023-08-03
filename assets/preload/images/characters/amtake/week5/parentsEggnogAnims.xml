@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="parentsEggnogAnims.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="2" y="2" width="1022" height="972" frameX="0" frameY="-7" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0001" x="2" y="2" width="1022" height="972" frameX="0" frameY="-7" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0002" x="1026" y="2" width="1017" height="946" frameX="-2" frameY="-33" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0003" x="1026" y="2" width="1017" height="946" frameX="-2" frameY="-33" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0004" x="2045" y="2" width="1016" height="961" frameX="-2" frameY="-18" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0005" x="2045" y="2" width="1016" height="961" frameX="-2" frameY="-18" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0006" x="3063" y="2" width="1003" height="977" frameX="-2" frameY="-2" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0007" x="3063" y="2" width="1003" height="977" frameX="-2" frameY="-2" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0008" x="4068" y="2" width="1000" height="979" frameX="-2" frameY="0" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0009" x="4068" y="2" width="1000" height="979" frameX="-2" frameY="0" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0010" x="5070" y="2" width="1000" height="979" frameX="-2" frameY="0" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0011" x="5070" y="2" width="1000" height="979" frameX="-2" frameY="0" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0012" x="6072" y="2" width="1000" height="979" frameX="-2" frameY="0" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="Idle0013" x="6072" y="2" width="1000" height="979" frameX="-2" frameY="0" frameWidth="1022" frameHeight="979"/>
+	<SubTexture name="bruh begin0000" x="7074" y="2" width="962" height="964" frameX="0" frameY="-13" frameWidth="962" frameHeight="977"/>
+	<SubTexture name="bruh begin0001" x="7074" y="2" width="962" height="964" frameX="0" frameY="-13" frameWidth="962" frameHeight="977"/>
+	<SubTexture name="bruh begin0002" x="2" y="983" width="958" height="977" frameX="0" frameY="0" frameWidth="962" frameHeight="977"/>
+	<SubTexture name="bruh begin0003" x="2" y="983" width="958" height="977" frameX="0" frameY="0" frameWidth="962" frameHeight="977"/>
+	<SubTexture name="bruh begin0004" x="962" y="983" width="958" height="977" frameX="0" frameY="0" frameWidth="962" frameHeight="977"/>
+	<SubTexture name="bruh begin0005" x="962" y="983" width="958" height="977" frameX="0" frameY="0" frameWidth="962" frameHeight="977"/>
+	<SubTexture name="bruh loop0000" x="2" y="983" width="958" height="977" frameX="0" frameY="0" frameWidth="962" frameHeight="977"/>
+	<SubTexture name="bruh loop0001" x="2" y="983" width="958" height="977" frameX="0" frameY="0" frameWidth="962" frameHeight="977"/>
+	<SubTexture name="bruh loop0002" x="1922" y="983" width="958" height="977"/>
+	<SubTexture name="bruh loop0003" x="1922" y="983" width="958" height="977"/>
+	<SubTexture name="button0000" x="2882" y="983" width="962" height="964" frameX="0" frameY="-19" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0001" x="2882" y="983" width="962" height="964" frameX="0" frameY="-19" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0002" x="3846" y="983" width="958" height="977" frameX="0" frameY="-6" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0003" x="4806" y="983" width="958" height="977" frameX="0" frameY="-6" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0004" x="5766" y="983" width="958" height="977" frameX="0" frameY="-6" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0005" x="5766" y="983" width="958" height="977" frameX="0" frameY="-6" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0006" x="6726" y="983" width="958" height="977" frameX="0" frameY="-6" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0007" x="6726" y="983" width="958" height="977" frameX="0" frameY="-6" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0008" x="2" y="1962" width="958" height="977" frameX="0" frameY="-6" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0009" x="2" y="1962" width="958" height="977" frameX="0" frameY="-6" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0010" x="6726" y="983" width="958" height="977" frameX="0" frameY="-6" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0011" x="6726" y="983" width="958" height="977" frameX="0" frameY="-6" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0012" x="962" y="1962" width="955" height="983" frameX="0" frameY="0" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0013" x="1919" y="1962" width="955" height="983" frameX="0" frameY="0" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0014" x="2876" y="1962" width="955" height="981" frameX="0" frameY="-2" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0015" x="3833" y="1962" width="955" height="981" frameX="0" frameY="-2" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0016" x="4790" y="1962" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0017" x="5747" y="1962" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0018" x="6704" y="1962" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0019" x="2" y="2947" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0020" x="2" y="2947" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0021" x="959" y="2947" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0022" x="1916" y="2947" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0023" x="2873" y="2947" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0024" x="3830" y="2947" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0025" x="4787" y="2947" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0026" x="4787" y="2947" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0027" x="5744" y="2947" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0028" x="5744" y="2947" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0029" x="6701" y="2947" width="956" height="980" frameX="0" frameY="-3" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0030" x="6701" y="2947" width="956" height="980" frameX="0" frameY="-3" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0031" x="2" y="3931" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0032" x="2" y="3931" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0033" x="959" y="3931" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0034" x="959" y="3931" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0035" x="1916" y="3931" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0036" x="1916" y="3931" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0037" x="959" y="3931" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0038" x="959" y="3931" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0039" x="1916" y="3931" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0040" x="1916" y="3931" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0041" x="959" y="3931" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0042" x="959" y="3931" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0043" x="1916" y="3931" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0044" x="1916" y="3931" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0045" x="959" y="3931" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0046" x="959" y="3931" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0047" x="1916" y="3931" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0048" x="1916" y="3931" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0049" x="959" y="3931" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0050" x="959" y="3931" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+	<SubTexture name="button0051" x="1916" y="3931" width="955" height="982" frameX="0" frameY="-1" frameWidth="962" frameHeight="983"/>
+</TextureAtlas>

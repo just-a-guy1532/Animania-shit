@@ -1,0 +1,11 @@
+{
+	"name": "OMGBF",
+	"image": "omg-bf",
+    "position": [300, 400],
+    "scale": 1,
+    "antialiasing": true,
+	"animation": "null",
+	"looped": true,
+    "fps": 24,
+	"sex": 1
+}

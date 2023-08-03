@@ -1,0 +1,11 @@
+{
+	"name": "HappyAlcoGF",
+	"image": "menuart-christmas-gf",
+    "position": [-70, -102],
+    "scale": 0.35,
+    "antialiasing": true,
+	"animation": "null",
+	"looped": true,
+    "fps": 24,
+	"sex": 1
+}

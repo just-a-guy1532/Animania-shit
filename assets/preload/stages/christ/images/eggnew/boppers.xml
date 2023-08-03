@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boppers.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG DUMBS20000" x="2" y="2" width="2946" height="432" frameX="0" frameY="-17" frameWidth="2946" frameHeight="450"/>
+	<SubTexture name="BG DUMBS20001" x="2" y="2" width="2946" height="432" frameX="0" frameY="-17" frameWidth="2946" frameHeight="450"/>
+	<SubTexture name="BG DUMBS20002" x="2950" y="2" width="2930" height="437" frameX="-8" frameY="-12" frameWidth="2946" frameHeight="450"/>
+	<SubTexture name="BG DUMBS20003" x="2950" y="2" width="2930" height="437" frameX="-8" frameY="-12" frameWidth="2946" frameHeight="450"/>
+	<SubTexture name="BG DUMBS20004" x="2" y="441" width="2909" height="441" frameX="-18" frameY="-8" frameWidth="2946" frameHeight="450"/>
+	<SubTexture name="BG DUMBS20005" x="2" y="441" width="2909" height="441" frameX="-18" frameY="-8" frameWidth="2946" frameHeight="450"/>
+	<SubTexture name="BG DUMBS20006" x="2913" y="441" width="2889" height="446" frameX="-28" frameY="-3" frameWidth="2946" frameHeight="450"/>
+	<SubTexture name="BG DUMBS20007" x="2913" y="441" width="2889" height="446" frameX="-28" frameY="-3" frameWidth="2946" frameHeight="450"/>
+	<SubTexture name="BG DUMBS20008" x="2" y="889" width="2883" height="450" frameX="-31" frameY="0" frameWidth="2946" frameHeight="450"/>
+	<SubTexture name="BG DUMBS20009" x="2" y="889" width="2883" height="450" frameX="-31" frameY="0" frameWidth="2946" frameHeight="450"/>
+	<SubTexture name="BG DUMBS20010" x="2" y="889" width="2883" height="450" frameX="-31" frameY="0" frameWidth="2946" frameHeight="450"/>
+	<SubTexture name="BG DUMBS20011" x="2" y="889" width="2883" height="450" frameX="-31" frameY="0" frameWidth="2946" frameHeight="450"/>
+	<SubTexture name="BG DUMBS20012" x="2" y="889" width="2883" height="450" frameX="-31" frameY="0" frameWidth="2946" frameHeight="450"/>
+	<SubTexture name="BG DUMBS20013" x="2" y="889" width="2883" height="450" frameX="-31" frameY="0" frameWidth="2946" frameHeight="450"/>
+	<SubTexture name="bottomBoppersLeft0000" x="2887" y="889" width="583" height="551" frameX="0" frameY="-12" frameWidth="583" frameHeight="563"/>
+	<SubTexture name="bottomBoppersLeft0001" x="2887" y="889" width="583" height="551" frameX="0" frameY="-12" frameWidth="583" frameHeight="563"/>
+	<SubTexture name="bottomBoppersLeft0002" x="3472" y="889" width="578" height="555" frameX="-4" frameY="-8" frameWidth="583" frameHeight="563"/>
+	<SubTexture name="bottomBoppersLeft0003" x="3472" y="889" width="578" height="555" frameX="-4" frameY="-8" frameWidth="583" frameHeight="563"/>
+	<SubTexture name="bottomBoppersLeft0004" x="4052" y="889" width="573" height="560" frameX="-6" frameY="-3" frameWidth="583" frameHeight="563"/>
+	<SubTexture name="bottomBoppersLeft0005" x="4052" y="889" width="573" height="560" frameX="-6" frameY="-3" frameWidth="583" frameHeight="563"/>
+	<SubTexture name="bottomBoppersLeft0006" x="4627" y="889" width="571" height="563" frameX="-6" frameY="0" frameWidth="583" frameHeight="563"/>
+	<SubTexture name="bottomBoppersLeft0007" x="4627" y="889" width="571" height="563" frameX="-6" frameY="0" frameWidth="583" frameHeight="563"/>
+	<SubTexture name="bottomBoppersLeft0008" x="4627" y="889" width="571" height="563" frameX="-6" frameY="0" frameWidth="583" frameHeight="563"/>
+	<SubTexture name="bottomBoppersLeft0009" x="4627" y="889" width="571" height="563" frameX="-6" frameY="0" frameWidth="583" frameHeight="563"/>
+	<SubTexture name="bottomBoppersLeft0010" x="4627" y="889" width="571" height="563" frameX="-6" frameY="0" frameWidth="583" frameHeight="563"/>
+	<SubTexture name="bottomBoppersLeft0011" x="4627" y="889" width="571" height="563" frameX="-6" frameY="0" frameWidth="583" frameHeight="563"/>
+	<SubTexture name="bottomBoppersLeft0012" x="4627" y="889" width="571" height="563" frameX="-6" frameY="0" frameWidth="583" frameHeight="563"/>
+	<SubTexture name="bottomBoppersLeft0013" x="4627" y="889" width="571" height="563" frameX="-6" frameY="0" frameWidth="583" frameHeight="563"/>
+	<SubTexture name="bottomBoppersRight0000" x="5200" y="889" width="1192" height="741" frameX="0" frameY="-11" frameWidth="1192" frameHeight="752"/>
+	<SubTexture name="bottomBoppersRight0001" x="5200" y="889" width="1192" height="741" frameX="0" frameY="-11" frameWidth="1192" frameHeight="752"/>
+	<SubTexture name="bottomBoppersRight0002" x="6394" y="889" width="1190" height="745" frameX="-1" frameY="-7" frameWidth="1192" frameHeight="752"/>
+	<SubTexture name="bottomBoppersRight0003" x="6394" y="889" width="1190" height="745" frameX="-1" frameY="-7" frameWidth="1192" frameHeight="752"/>
+	<SubTexture name="bottomBoppersRight0004" x="2" y="1636" width="1183" height="750" frameX="-4" frameY="-2" frameWidth="1192" frameHeight="752"/>
+	<SubTexture name="bottomBoppersRight0005" x="2" y="1636" width="1183" height="750" frameX="-4" frameY="-2" frameWidth="1192" frameHeight="752"/>
+	<SubTexture name="bottomBoppersRight0006" x="1187" y="1636" width="1181" height="752" frameX="-5" frameY="0" frameWidth="1192" frameHeight="752"/>
+	<SubTexture name="bottomBoppersRight0007" x="1187" y="1636" width="1181" height="752" frameX="-5" frameY="0" frameWidth="1192" frameHeight="752"/>
+	<SubTexture name="bottomBoppersRight0008" x="2370" y="1636" width="1181" height="752" frameX="-5" frameY="0" frameWidth="1192" frameHeight="752"/>
+	<SubTexture name="bottomBoppersRight0009" x="2370" y="1636" width="1181" height="752" frameX="-5" frameY="0" frameWidth="1192" frameHeight="752"/>
+	<SubTexture name="bottomBoppersRight0010" x="3553" y="1636" width="1181" height="752" frameX="-5" frameY="0" frameWidth="1192" frameHeight="752"/>
+	<SubTexture name="bottomBoppersRight0011" x="3553" y="1636" width="1181" height="752" frameX="-5" frameY="0" frameWidth="1192" frameHeight="752"/>
+	<SubTexture name="bottomBoppersRight0012" x="4736" y="1636" width="1181" height="752" frameX="-5" frameY="0" frameWidth="1192" frameHeight="752"/>
+	<SubTexture name="bottomBoppersRight0013" x="4736" y="1636" width="1181" height="752" frameX="-5" frameY="0" frameWidth="1192" frameHeight="752"/>
+	<SubTexture name="leaked guy0000" x="5919" y="1636" width="211" height="355" frameX="0" frameY="-8" frameWidth="211" frameHeight="363"/>
+	<SubTexture name="leaked guy0001" x="5919" y="1636" width="211" height="355" frameX="0" frameY="-8" frameWidth="211" frameHeight="363"/>
+	<SubTexture name="leaked guy0002" x="6132" y="1636" width="204" height="358" frameX="-3" frameY="-5" frameWidth="211" frameHeight="363"/>
+	<SubTexture name="leaked guy0003" x="6132" y="1636" width="204" height="358" frameX="-3" frameY="-5" frameWidth="211" frameHeight="363"/>
+	<SubTexture name="leaked guy0004" x="6338" y="1636" width="202" height="361" frameX="-4" frameY="-2" frameWidth="211" frameHeight="363"/>
+	<SubTexture name="leaked guy0005" x="6338" y="1636" width="202" height="361" frameX="-4" frameY="-2" frameWidth="211" frameHeight="363"/>
+	<SubTexture name="leaked guy0006" x="6542" y="1636" width="202" height="363" frameX="-4" frameY="0" frameWidth="211" frameHeight="363"/>
+	<SubTexture name="leaked guy0007" x="6542" y="1636" width="202" height="363" frameX="-4" frameY="0" frameWidth="211" frameHeight="363"/>
+	<SubTexture name="leaked guy0008" x="6542" y="1636" width="202" height="363" frameX="-4" frameY="0" frameWidth="211" frameHeight="363"/>
+	<SubTexture name="leaked guy0009" x="6542" y="1636" width="202" height="363" frameX="-4" frameY="0" frameWidth="211" frameHeight="363"/>
+	<SubTexture name="leaked guy0010" x="6542" y="1636" width="202" height="363" frameX="-4" frameY="0" frameWidth="211" frameHeight="363"/>
+	<SubTexture name="leaked guy0011" x="6542" y="1636" width="202" height="363" frameX="-4" frameY="0" frameWidth="211" frameHeight="363"/>
+	<SubTexture name="leaked guy0012" x="6542" y="1636" width="202" height="363" frameX="-4" frameY="0" frameWidth="211" frameHeight="363"/>
+	<SubTexture name="leaked guy0013" x="6542" y="1636" width="202" height="363" frameX="-4" frameY="0" frameWidth="211" frameHeight="363"/>
+	<SubTexture name="sportsman truck0000" x="6746" y="1636" width="539" height="892" frameX="0" frameY="-3" frameWidth="539" frameHeight="895"/>
+	<SubTexture name="sportsman truck0001" x="6746" y="1636" width="539" height="892" frameX="0" frameY="-3" frameWidth="539" frameHeight="895"/>
+	<SubTexture name="sportsman truck0002" x="6746" y="1636" width="539" height="892" frameX="0" frameY="-3" frameWidth="539" frameHeight="895"/>
+	<SubTexture name="sportsman truck0003" x="7287" y="1636" width="539" height="891" frameX="0" frameY="0" frameWidth="539" frameHeight="895"/>
+	<SubTexture name="sportsman truck0004" x="7287" y="1636" width="539" height="891" frameX="0" frameY="0" frameWidth="539" frameHeight="895"/>
+	<SubTexture name="sportsman truck0005" x="7287" y="1636" width="539" height="891" frameX="0" frameY="0" frameWidth="539" frameHeight="895"/>
+</TextureAtlas>

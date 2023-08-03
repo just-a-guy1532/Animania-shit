@@ -1,0 +1,171 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-60,
+				-142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Henry Down"
+		},
+		{
+			"offsets": [
+				-45,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Henry Miss Down"
+		},
+		{
+			"offsets": [
+				-19,
+				85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Henry Up"
+		},
+		{
+			"offsets": [
+				10,
+				95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Henry Idle"
+		},
+		{
+			"offsets": [
+				-31,
+				79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Henry Miss Up"
+		},
+		{
+			"offsets": [
+				109,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "henry dies"
+		},
+		{
+			"offsets": [
+				99,
+				8
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Henry Death loop"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-2,
+				24
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Henry death enter",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				109,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Henry Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				52
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Henry Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-109,
+				-39
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Henry Miss Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				133,
+				-84
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Henry Miss Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"healthicon_scale": 1,
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/henry_i_phone",
+	"position": [
+		-1800,
+		290
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		189,
+		215,
+		216
+	],
+	"healthicon": "henry",
+	"flip_x": true,
+	"healthbar_colors": [
+		189,
+		215,
+		216
+	],
+	"camera_position": [
+		230,
+		-460
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

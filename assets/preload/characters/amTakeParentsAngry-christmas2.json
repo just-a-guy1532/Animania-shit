@@ -1,0 +1,88 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Idle",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"offsets": [
+				0,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "angryLeftLoop",
+			"loop": true,
+			"name": "angry left loo"
+		},
+		{
+			"offsets": [
+				0,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "AngrySawRight",
+			"loop": false,
+			"name": "angry saw right"
+		}
+	],
+	"no_antialiasing": false,
+	"healthicon_scale": 1,
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/amtake/week5/angry_parents2",
+	"position": [
+		-500,
+		-50
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		172,
+		105,
+		222
+	],
+	"healthicon": "parents",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		-90,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

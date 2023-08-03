@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tbc-text.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tbc-text0000" x="12" y="12" width="1137" height="661"/>
+	<SubTexture name="tbc-text0001" x="12" y="12" width="1137" height="661"/>
+	<SubTexture name="tbc-text0002" x="12" y="12" width="1137" height="661"/>
+	<SubTexture name="tbc-text0003" x="12" y="685" width="1137" height="661"/>
+	<SubTexture name="tbc-text0004" x="12" y="685" width="1137" height="661"/>
+	<SubTexture name="tbc-text0005" x="12" y="685" width="1137" height="661"/>
+</TextureAtlas>

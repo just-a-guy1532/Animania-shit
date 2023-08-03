@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_amtake.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="amtake basic0000" x="2" y="2" width="643" height="658"/>
+	<SubTexture name="amtake basic0001" x="2" y="2" width="643" height="658"/>
+	<SubTexture name="amtake basic0002" x="2" y="2" width="643" height="658"/>
+	<SubTexture name="amtake basic0003" x="647" y="2" width="643" height="658"/>
+	<SubTexture name="amtake basic0004" x="647" y="2" width="643" height="658"/>
+	<SubTexture name="amtake basic0005" x="647" y="2" width="643" height="658"/>
+	<SubTexture name="amtake white0000" x="2" y="662" width="651" height="675" frameX="8" frameY="17" frameWidth="651" frameHeight="675"/>
+	<SubTexture name="amtake white0001" x="2" y="662" width="651" height="675" frameX="8" frameY="17" frameWidth="651" frameHeight="675"/>
+	<SubTexture name="amtake white0002" x="655" y="662" width="650" height="674" frameX="7" frameY="16" frameWidth="650" frameHeight="674"/>
+	<SubTexture name="amtake white0003" x="655" y="662" width="650" height="674" frameX="7" frameY="16" frameWidth="650" frameHeight="674"/>
+</TextureAtlas>

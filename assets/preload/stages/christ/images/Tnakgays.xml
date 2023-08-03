@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tnakgays.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gays0000" x="2" y="2" width="334" height="247" frameX="0" frameY="-6" frameWidth="334" frameHeight="253"/>
+	<SubTexture name="Gays0001" x="2" y="2" width="334" height="247" frameX="0" frameY="-6" frameWidth="334" frameHeight="253"/>
+	<SubTexture name="Gays0002" x="338" y="2" width="330" height="251" frameX="-2" frameY="-2" frameWidth="334" frameHeight="253"/>
+	<SubTexture name="Gays0003" x="338" y="2" width="330" height="251" frameX="-2" frameY="-2" frameWidth="334" frameHeight="253"/>
+	<SubTexture name="Gays0004" x="670" y="2" width="328" height="252" frameX="-3" frameY="-1" frameWidth="334" frameHeight="253"/>
+	<SubTexture name="Gays0005" x="670" y="2" width="328" height="252" frameX="-3" frameY="-1" frameWidth="334" frameHeight="253"/>
+	<SubTexture name="Gays0006" x="1000" y="2" width="326" height="253" frameX="-4" frameY="0" frameWidth="334" frameHeight="253"/>
+	<SubTexture name="Gays0007" x="1000" y="2" width="326" height="253" frameX="-4" frameY="0" frameWidth="334" frameHeight="253"/>
+	<SubTexture name="Gays0008" x="1000" y="2" width="326" height="253" frameX="-4" frameY="0" frameWidth="334" frameHeight="253"/>
+	<SubTexture name="Gays0009" x="1000" y="2" width="326" height="253" frameX="-4" frameY="0" frameWidth="334" frameHeight="253"/>
+	<SubTexture name="Gays0010" x="1000" y="2" width="326" height="253" frameX="-4" frameY="0" frameWidth="334" frameHeight="253"/>
+	<SubTexture name="Gays0011" x="1000" y="2" width="326" height="253" frameX="-4" frameY="0" frameWidth="334" frameHeight="253"/>
+	<SubTexture name="Gays0012" x="1000" y="2" width="326" height="253" frameX="-4" frameY="0" frameWidth="334" frameHeight="253"/>
+	<SubTexture name="Gays0013" x="1000" y="2" width="326" height="253" frameX="-4" frameY="0" frameWidth="334" frameHeight="253"/>
+</TextureAtlas>

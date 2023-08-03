@@ -1,0 +1,83 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-2,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "bruh",
+			"loop": false,
+			"name": "bruh begin"
+		},
+		{
+			"offsets": [
+				-2,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "bruh-loop",
+			"loop": true,
+			"name": "bruh loop"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "button",
+			"loop": false,
+			"name": "button"
+		}
+	],
+	"no_antialiasing": false,
+	"healthicon_scale": 1,
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/amtake/week5/parentsEggnogAnims",
+	"position": [
+		-500,
+		-50
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		172,
+		105,
+		222
+	],
+	"healthicon": "parents",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		0,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

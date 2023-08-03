@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="text.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="phone call text0000" x="22" y="22" width="1476" height="899" frameX="0" frameY="-1" frameWidth="1477" frameHeight="909"/>
+	<SubTexture name="phone call text0001" x="22" y="22" width="1476" height="899" frameX="0" frameY="-1" frameWidth="1477" frameHeight="909"/>
+	<SubTexture name="phone call text0002" x="22" y="22" width="1476" height="899" frameX="0" frameY="-1" frameWidth="1477" frameHeight="909"/>
+	<SubTexture name="phone call text0003" x="22" y="22" width="1476" height="899" frameX="0" frameY="-1" frameWidth="1477" frameHeight="909"/>
+	<SubTexture name="phone call text0004" x="22" y="937" width="1473" height="909" frameX="-4" frameY="0" frameWidth="1477" frameHeight="909"/>
+	<SubTexture name="phone call text0005" x="22" y="937" width="1473" height="909" frameX="-4" frameY="0" frameWidth="1477" frameHeight="909"/>
+	<SubTexture name="phone call text0006" x="22" y="937" width="1473" height="909" frameX="-4" frameY="0" frameWidth="1477" frameHeight="909"/>
+	<SubTexture name="phone call text0007" x="22" y="937" width="1473" height="909" frameX="-4" frameY="0" frameWidth="1477" frameHeight="909"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sportsmantruck.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sportsman truck0000" x="2" y="2" width="539" height="892" frameX="0" frameY="-3" frameWidth="539" frameHeight="895"/>
+	<SubTexture name="sportsman truck0001" x="2" y="2" width="539" height="892" frameX="0" frameY="-3" frameWidth="539" frameHeight="895"/>
+	<SubTexture name="sportsman truck0002" x="2" y="2" width="539" height="892" frameX="0" frameY="-3" frameWidth="539" frameHeight="895"/>
+	<SubTexture name="sportsman truck0003" x="543" y="2" width="539" height="891" frameX="0" frameY="0" frameWidth="539" frameHeight="895"/>
+	<SubTexture name="sportsman truck0004" x="543" y="2" width="539" height="891" frameX="0" frameY="0" frameWidth="539" frameHeight="895"/>
+	<SubTexture name="sportsman truck0005" x="543" y="2" width="539" height="891" frameX="0" frameY="0" frameWidth="539" frameHeight="895"/>
+</TextureAtlas>

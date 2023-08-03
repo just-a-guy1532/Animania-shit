@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="snowfallin_bg.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="snowfallin0000" x="8" y="8" width="1372" height="907" frameX="-52" frameY="0" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0001" x="1388" y="8" width="1372" height="907" frameX="-52" frameY="0" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0002" x="2768" y="8" width="1364" height="924" frameX="-57" frameY="-16" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0003" x="4140" y="8" width="1409" height="924" frameX="-34" frameY="-16" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0004" x="5557" y="8" width="1409" height="943" frameX="-34" frameY="-23" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0005" x="8" y="959" width="1385" height="943" frameX="-46" frameY="-23" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0006" x="1401" y="959" width="1385" height="833" frameX="-46" frameY="-28" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0007" x="2794" y="959" width="1361" height="855" frameX="-58" frameY="-6" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0008" x="4163" y="959" width="1361" height="859" frameX="-58" frameY="-6" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0009" x="5532" y="959" width="1347" height="845" frameX="-65" frameY="-20" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0010" x="8" y="1910" width="1365" height="850" frameX="-56" frameY="-20" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0011" x="1381" y="1910" width="1365" height="856" frameX="-56" frameY="-13" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0012" x="2754" y="1910" width="1373" height="825" frameX="-52" frameY="-13" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0013" x="4135" y="1910" width="1373" height="811" frameX="-52" frameY="-28" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0014" x="5516" y="1910" width="1372" height="830" frameX="-52" frameY="-28" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0015" x="8" y="2774" width="1372" height="818" frameX="-52" frameY="-40" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0016" x="1388" y="2774" width="1477" height="850" frameX="0" frameY="-5" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0017" x="2873" y="2774" width="1477" height="850" frameX="0" frameY="-5" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0018" x="4358" y="2774" width="1453" height="849" frameX="-12" frameY="-12" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0019" x="5819" y="2774" width="1453" height="849" frameX="-12" frameY="-12" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0020" x="8" y="3632" width="1427" height="840" frameX="-25" frameY="-21" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0021" x="1443" y="3632" width="1427" height="840" frameX="-25" frameY="-21" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0022" x="2878" y="3632" width="1404" height="837" frameX="-36" frameY="-27" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0023" x="4290" y="3632" width="1404" height="837" frameX="-36" frameY="-27" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0024" x="5702" y="3632" width="1376" height="841" frameX="-51" frameY="-30" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0025" x="8" y="4481" width="1376" height="841" frameX="-51" frameY="-30" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0026" x="1392" y="4481" width="1355" height="893" frameX="-61" frameY="-13" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0027" x="2755" y="4481" width="1355" height="893" frameX="-61" frameY="-13" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0028" x="4118" y="4481" width="1342" height="919" frameX="-71" frameY="-21" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0029" x="5468" y="4481" width="1409" height="919" frameX="-34" frameY="-21" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0030" x="8" y="5408" width="1477" height="961" frameX="0" frameY="-5" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0031" x="1493" y="5408" width="1477" height="961" frameX="0" frameY="-5" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0032" x="2978" y="5408" width="1453" height="806" frameX="-12" frameY="-12" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0033" x="4439" y="5408" width="1453" height="806" frameX="-12" frameY="-12" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0034" x="5900" y="5408" width="1427" height="806" frameX="-25" frameY="-19" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0035" x="8" y="6377" width="1427" height="804" frameX="-25" frameY="-21" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0036" x="1443" y="6377" width="1404" height="809" frameX="-36" frameY="-27" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0037" x="2855" y="6377" width="1404" height="809" frameX="-36" frameY="-27" frameWidth="1477" frameHeight="966"/>
+	<SubTexture name="snowfallin0038" x="4267" y="6377" width="1376" height="841" frameX="-51" frameY="-30" frameWidth="1477" frameHeight="966"/>
+</TextureAtlas>

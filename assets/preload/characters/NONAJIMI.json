@@ -1,0 +1,116 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				60
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				49
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				126
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				67
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				340,
+				390
+			],
+			"anim": "meow",
+			"fps": 24,
+			"name": "meow",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-160
+			],
+			"anim": "lighter",
+			"fps": 24,
+			"name": "lighter",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/NOGF",
+	"position": [
+		40,
+		170
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		255,
+		199,
+		231
+	],
+	"healthicon": "test",
+	"healthicon_scale": 1,
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		199,
+		231
+	],
+	"camera_position": [
+		20,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

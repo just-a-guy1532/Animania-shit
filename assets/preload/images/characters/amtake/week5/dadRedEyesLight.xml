@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dadRedEyesLight.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="daddy lights off red eyes0000" x="2" y="2" width="129" height="107" frameX="-2" frameY="-7" frameWidth="136" frameHeight="121"/>
+	<SubTexture name="daddy lights off red eyes0001" x="2" y="2" width="129" height="107" frameX="-2" frameY="-7" frameWidth="136" frameHeight="121"/>
+	<SubTexture name="daddy lights off red eyes0002" x="2" y="111" width="136" height="121"/>
+	<SubTexture name="daddy lights off red eyes0003" x="2" y="111" width="136" height="121"/>
+</TextureAtlas>

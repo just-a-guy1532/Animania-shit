@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lamapng.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down0000" x="8" y="8" width="414" height="399" frameX="0" frameY="-27" frameWidth="414" frameHeight="426"/>
+	<SubTexture name="Down0001" x="430" y="8" width="396" height="411" frameX="-9" frameY="-15" frameWidth="414" frameHeight="426"/>
+	<SubTexture name="Down0002" x="834" y="8" width="388" height="422" frameX="-13" frameY="-4" frameWidth="414" frameHeight="426"/>
+	<SubTexture name="Down0003" x="1230" y="8" width="384" height="426" frameX="-15" frameY="0" frameWidth="414" frameHeight="426"/>
+	<SubTexture name="Idle0000" x="1622" y="8" width="457" height="394" frameX="0" frameY="-28" frameWidth="457" frameHeight="422"/>
+	<SubTexture name="Idle0001" x="2087" y="8" width="432" height="401" frameX="-12" frameY="-21" frameWidth="457" frameHeight="422"/>
+	<SubTexture name="Idle0002" x="2527" y="8" width="410" height="408" frameX="-23" frameY="-14" frameWidth="457" frameHeight="422"/>
+	<SubTexture name="Idle0003" x="2527" y="8" width="410" height="408" frameX="-23" frameY="-14" frameWidth="457" frameHeight="422"/>
+	<SubTexture name="Idle0004" x="2945" y="8" width="386" height="416" frameX="-35" frameY="-6" frameWidth="457" frameHeight="422"/>
+	<SubTexture name="Idle0005" x="2945" y="8" width="386" height="416" frameX="-35" frameY="-6" frameWidth="457" frameHeight="422"/>
+	<SubTexture name="Idle0006" x="3339" y="8" width="362" height="422" frameX="-47" frameY="0" frameWidth="457" frameHeight="422"/>
+	<SubTexture name="Idle0007" x="3339" y="8" width="362" height="422" frameX="-47" frameY="0" frameWidth="457" frameHeight="422"/>
+	<SubTexture name="Idle0008" x="3709" y="8" width="361" height="422" frameX="-47" frameY="0" frameWidth="457" frameHeight="422"/>
+	<SubTexture name="Idle0009" x="3709" y="8" width="361" height="422" frameX="-47" frameY="0" frameWidth="457" frameHeight="422"/>
+	<SubTexture name="Idle0010" x="3709" y="8" width="361" height="422" frameX="-47" frameY="0" frameWidth="457" frameHeight="422"/>
+	<SubTexture name="Idle0011" x="4078" y="8" width="362" height="421" frameX="-47" frameY="-1" frameWidth="457" frameHeight="422"/>
+	<SubTexture name="Idle0012" x="4078" y="8" width="362" height="421" frameX="-47" frameY="-1" frameWidth="457" frameHeight="422"/>
+	<SubTexture name="Idle0013" x="4448" y="8" width="373" height="407" frameX="-42" frameY="-15" frameWidth="457" frameHeight="422"/>
+	<SubTexture name="Left0000" x="4829" y="8" width="410" height="422" frameX="0" frameY="0" frameWidth="411" frameHeight="422"/>
+	<SubTexture name="Left0001" x="5247" y="8" width="392" height="422" frameX="-18" frameY="0" frameWidth="411" frameHeight="422"/>
+	<SubTexture name="Left0002" x="5647" y="8" width="385" height="422" frameX="-26" frameY="0" frameWidth="411" frameHeight="422"/>
+	<SubTexture name="Left0003" x="6040" y="8" width="383" height="422" frameX="-28" frameY="0" frameWidth="411" frameHeight="422"/>
+	<SubTexture name="Right0000" x="6431" y="8" width="421" height="422"/>
+	<SubTexture name="Right0001" x="6860" y="8" width="399" height="422" frameX="0" frameY="0" frameWidth="421" frameHeight="422"/>
+	<SubTexture name="Right0002" x="8" y="442" width="390" height="422" frameX="0" frameY="0" frameWidth="421" frameHeight="422"/>
+	<SubTexture name="Right0003" x="406" y="442" width="383" height="422" frameX="0" frameY="0" frameWidth="421" frameHeight="422"/>
+	<SubTexture name="Up0000" x="797" y="442" width="343" height="459" frameX="-14" frameY="0" frameWidth="372" frameHeight="460"/>
+	<SubTexture name="Up0001" x="1148" y="442" width="352" height="444" frameX="-10" frameY="-15" frameWidth="372" frameHeight="460"/>
+	<SubTexture name="Up0002" x="1508" y="442" width="361" height="437" frameX="-5" frameY="-22" frameWidth="372" frameHeight="460"/>
+	<SubTexture name="Up0003" x="1877" y="442" width="372" height="436" frameX="0" frameY="-24" frameWidth="372" frameHeight="460"/>
+</TextureAtlas>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crushersFalls.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crushers falls(eggnog)0000" x="2" y="2" width="803" height="491" frameX="-3" frameY="0" frameWidth="806" frameHeight="491"/>
+	<SubTexture name="crushers falls(eggnog)0001" x="807" y="2" width="804" height="491" frameX="-2" frameY="0" frameWidth="806" frameHeight="491"/>
+	<SubTexture name="crushers falls(eggnog)0002" x="1613" y="2" width="803" height="491" frameX="-2" frameY="0" frameWidth="806" frameHeight="491"/>
+	<SubTexture name="crushers falls(eggnog)0003" x="2418" y="2" width="803" height="491" frameX="-2" frameY="0" frameWidth="806" frameHeight="491"/>
+	<SubTexture name="crushers falls(eggnog)0004" x="3223" y="2" width="804" height="491" frameX="-2" frameY="0" frameWidth="806" frameHeight="491"/>
+	<SubTexture name="crushers falls(eggnog)0005" x="4029" y="2" width="805" height="491" frameX="-1" frameY="0" frameWidth="806" frameHeight="491"/>
+	<SubTexture name="crushers falls(eggnog)0006" x="2" y="495" width="804" height="491" frameX="-1" frameY="0" frameWidth="806" frameHeight="491"/>
+	<SubTexture name="crushers falls(eggnog)0007" x="808" y="495" width="804" height="491" frameX="-1" frameY="0" frameWidth="806" frameHeight="491"/>
+	<SubTexture name="crushers falls(eggnog)0008" x="1614" y="495" width="806" height="491"/>
+	<SubTexture name="crushers falls(eggnog)0009" x="2422" y="495" width="806" height="491"/>
+	<SubTexture name="crushers falls(eggnog)0010" x="3230" y="495" width="805" height="491" frameX="0" frameY="0" frameWidth="806" frameHeight="491"/>
+	<SubTexture name="crushers falls(eggnog)0011" x="3230" y="495" width="805" height="491" frameX="0" frameY="0" frameWidth="806" frameHeight="491"/>
+	<SubTexture name="crushers falls(eggnog)0012" x="4037" y="495" width="806" height="491"/>
+	<SubTexture name="crushers falls(eggnog)0013" x="4037" y="495" width="806" height="491"/>
+	<SubTexture name="crushers falls(eggnog)0014" x="3230" y="495" width="805" height="491" frameX="0" frameY="0" frameWidth="806" frameHeight="491"/>
+	<SubTexture name="crushers falls(eggnog)0015" x="3230" y="495" width="805" height="491" frameX="0" frameY="0" frameWidth="806" frameHeight="491"/>
+	<SubTexture name="crushers falls(eggnog)0016" x="4037" y="495" width="806" height="491"/>
+	<SubTexture name="crushers falls(eggnog)0017" x="4037" y="495" width="806" height="491"/>
+	<SubTexture name="crushers falls(eggnog)0018" x="2" y="988" width="804" height="491" frameX="-1" frameY="0" frameWidth="806" frameHeight="491"/>
+	<SubTexture name="crushers falls(eggnog)0019" x="808" y="988" width="804" height="491" frameX="-1" frameY="0" frameWidth="806" frameHeight="491"/>
+	<SubTexture name="crushers falls(eggnog)0020" x="1614" y="988" width="804" height="491" frameX="-2" frameY="0" frameWidth="806" frameHeight="491"/>
+	<SubTexture name="crushers falls(eggnog)0021" x="2420" y="988" width="804" height="491" frameX="-2" frameY="0" frameWidth="806" frameHeight="491"/>
+	<SubTexture name="crushers falls(eggnog)0022" x="1613" y="2" width="803" height="491" frameX="-2" frameY="0" frameWidth="806" frameHeight="491"/>
+	<SubTexture name="crushers falls(eggnog)0023" x="3226" y="988" width="803" height="491" frameX="-2" frameY="0" frameWidth="806" frameHeight="491"/>
+	<SubTexture name="crushers falls(eggnog)0024" x="2" y="2" width="803" height="491" frameX="-3" frameY="0" frameWidth="806" frameHeight="491"/>
+</TextureAtlas>

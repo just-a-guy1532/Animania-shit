@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="People_mall.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG DUMBS0000" x="2" y="2" width="2662" height="426" frameX="0" frameY="-17" frameWidth="2662" frameHeight="444"/>
+	<SubTexture name="BG DUMBS0001" x="2" y="2" width="2662" height="426" frameX="0" frameY="-17" frameWidth="2662" frameHeight="444"/>
+	<SubTexture name="BG DUMBS0002" x="2" y="430" width="2648" height="431" frameX="-7" frameY="-12" frameWidth="2662" frameHeight="444"/>
+	<SubTexture name="BG DUMBS0003" x="2" y="430" width="2648" height="431" frameX="-7" frameY="-12" frameWidth="2662" frameHeight="444"/>
+	<SubTexture name="BG DUMBS0004" x="2" y="863" width="2630" height="435" frameX="-16" frameY="-8" frameWidth="2662" frameHeight="444"/>
+	<SubTexture name="BG DUMBS0005" x="2" y="863" width="2630" height="435" frameX="-16" frameY="-8" frameWidth="2662" frameHeight="444"/>
+	<SubTexture name="BG DUMBS0006" x="2" y="1300" width="2611" height="439" frameX="-26" frameY="-4" frameWidth="2662" frameHeight="444"/>
+	<SubTexture name="BG DUMBS0007" x="2" y="1300" width="2611" height="439" frameX="-26" frameY="-4" frameWidth="2662" frameHeight="444"/>
+	<SubTexture name="BG DUMBS0008" x="2" y="1741" width="2605" height="444" frameX="-29" frameY="0" frameWidth="2662" frameHeight="444"/>
+	<SubTexture name="BG DUMBS0009" x="2" y="1741" width="2605" height="444" frameX="-29" frameY="0" frameWidth="2662" frameHeight="444"/>
+	<SubTexture name="BG DUMBS0010" x="2" y="1741" width="2605" height="444" frameX="-29" frameY="0" frameWidth="2662" frameHeight="444"/>
+	<SubTexture name="BG DUMBS0011" x="2" y="1741" width="2605" height="444" frameX="-29" frameY="0" frameWidth="2662" frameHeight="444"/>
+	<SubTexture name="BG DUMBS0012" x="2" y="1741" width="2605" height="444" frameX="-29" frameY="0" frameWidth="2662" frameHeight="444"/>
+	<SubTexture name="BG DUMBS0013" x="2" y="1741" width="2605" height="444" frameX="-29" frameY="0" frameWidth="2662" frameHeight="444"/>
+</TextureAtlas>

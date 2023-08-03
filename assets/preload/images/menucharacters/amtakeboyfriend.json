@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "Hey",
+	"idle_anim": "Idle",
+	"position": [
+		50,
+		10
+	],
+	"scale": 0.7,
+	"image": "amTakeBoyfriend",
+	"flipX": false
+}

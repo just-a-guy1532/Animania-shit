@@ -1,0 +1,101 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				251
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "komileft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				251
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "komidown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				251
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "komiright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				257
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "komiup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				253
+			],
+			"anim": "komiidlelose",
+			"fps": 12,
+			"name": "komiidlelose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				39,
+				250
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "komiidle",
+			"indices": [],
+			"name": "komiidlenormal"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				250
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "komiidlenormal",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "icons/KomiICON",
+	"position": [
+		160,
+		320
+	],
+	"healthicon": "komi",
+	"healthicon_scale": 1,
+	"flip_x": true,
+	"healthbar_colors": [
+		150,
+		65,
+		255
+	],
+	"camera_position": [
+		20,
+		-150
+	],
+	"sing_duration": 11.1,
+	"scale": 0.95
+}

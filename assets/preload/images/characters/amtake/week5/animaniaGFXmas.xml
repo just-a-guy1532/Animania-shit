@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="animaniaGFXmas.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cheer0000" x="0" y="0" width="651" height="589"/>
+	<SubTexture name="Cheer0001" x="651" y="0" width="651" height="589"/>
+	<SubTexture name="Cheer0002" x="1302" y="0" width="651" height="584" frameX="0" frameY="-5" frameWidth="651" frameHeight="589"/>
+	<SubTexture name="Cheer0003" x="1953" y="0" width="650" height="584" frameX="0" frameY="-5" frameWidth="651" frameHeight="589"/>
+	<SubTexture name="Cheer0004" x="1953" y="0" width="650" height="584" frameX="0" frameY="-5" frameWidth="651" frameHeight="589"/>
+	<SubTexture name="Cheer0005" x="1953" y="0" width="650" height="584" frameX="0" frameY="-5" frameWidth="651" frameHeight="589"/>
+	<SubTexture name="Cheer0006" x="1953" y="0" width="650" height="584" frameX="0" frameY="-5" frameWidth="651" frameHeight="589"/>
+	<SubTexture name="Cheer0007" x="1953" y="0" width="650" height="584" frameX="0" frameY="-5" frameWidth="651" frameHeight="589"/>
+	<SubTexture name="Cheer0008" x="1953" y="0" width="650" height="584" frameX="0" frameY="-5" frameWidth="651" frameHeight="589"/>
+	<SubTexture name="Cheer0009" x="2603" y="0" width="650" height="584" frameX="0" frameY="-5" frameWidth="651" frameHeight="589"/>
+	<SubTexture name="Cheer0010" x="2603" y="0" width="650" height="584" frameX="0" frameY="-5" frameWidth="651" frameHeight="589"/>
+	<SubTexture name="Cheer0011" x="2603" y="0" width="650" height="584" frameX="0" frameY="-5" frameWidth="651" frameHeight="589"/>
+	<SubTexture name="Cheer0012" x="2603" y="0" width="650" height="584" frameX="0" frameY="-5" frameWidth="651" frameHeight="589"/>
+	<SubTexture name="Cheer0013" x="2603" y="0" width="650" height="584" frameX="0" frameY="-5" frameWidth="651" frameHeight="589"/>
+	<SubTexture name="Cry0000" x="4553" y="0" width="650" height="583" frameX="0" frameY="-1" frameWidth="650" frameHeight="584"/>
+	<SubTexture name="Cry0001" x="5203" y="0" width="650" height="583" frameX="0" frameY="-1" frameWidth="650" frameHeight="584"/>
+	<SubTexture name="Cry0002" x="5853" y="0" width="650" height="584"/>
+	<SubTexture name="Cry0003" x="6503" y="0" width="650" height="584"/>
+	<SubTexture name="Cry0004" x="7153" y="0" width="650" height="584"/>
+	<SubTexture name="Cry0005" x="0" y="589" width="650" height="584"/>
+	<SubTexture name="Cry0006" x="6503" y="0" width="650" height="584"/>
+	<SubTexture name="Cry0007" x="6503" y="0" width="650" height="584"/>
+	<SubTexture name="Cry0008" x="7153" y="0" width="650" height="584"/>
+	<SubTexture name="Cry0009" x="650" y="589" width="650" height="584"/>
+	<SubTexture name="Cry0010" x="1300" y="589" width="650" height="584"/>
+	<SubTexture name="Cry0011" x="1950" y="589" width="650" height="584"/>
+	<SubTexture name="Cry0012" x="650" y="589" width="650" height="584"/>
+	<SubTexture name="Cry0013" x="650" y="589" width="650" height="584"/>
+	<SubTexture name="Cry0014" x="1300" y="589" width="650" height="584"/>
+	<SubTexture name="Cry0015" x="2600" y="589" width="650" height="584"/>
+	<SubTexture name="Cry0016" x="3250" y="589" width="650" height="584"/>
+	<SubTexture name="Cry0017" x="3900" y="589" width="650" height="584"/>
+	<SubTexture name="Cry0018" x="6503" y="0" width="650" height="584"/>
+	<SubTexture name="Cry0019" x="6503" y="0" width="650" height="584"/>
+	<SubTexture name="Cry0020" x="6503" y="0" width="650" height="584"/>
+	<SubTexture name="Cry0021" x="6503" y="0" width="650" height="584"/>
+	<SubTexture name="Cry0022" x="6503" y="0" width="650" height="584"/>
+	<SubTexture name="Cry0023" x="6503" y="0" width="650" height="584"/>
+	<SubTexture name="Cry0024" x="4550" y="589" width="650" height="584"/>
+	<SubTexture name="Cry0025" x="5200" y="589" width="650" height="584"/>
+	<SubTexture name="Cry0026" x="5853" y="0" width="650" height="584"/>
+	<SubTexture name="Cry0027" x="6503" y="0" width="650" height="584"/>
+	<SubTexture name="Cry0028" x="7153" y="0" width="650" height="584"/>
+	<SubTexture name="Cry0029" x="0" y="589" width="650" height="584"/>
+	<SubTexture name="Dance Idle0000" x="5850" y="589" width="651" height="589" frameX="0" frameY="-5" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0001" x="6501" y="589" width="651" height="589" frameX="0" frameY="-5" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0002" x="7152" y="589" width="651" height="593" frameX="0" frameY="-1" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0003" x="0" y="1182" width="650" height="593" frameX="0" frameY="-1" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0004" x="650" y="1182" width="650" height="593" frameX="0" frameY="-1" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0005" x="1300" y="1182" width="650" height="594" frameX="0" frameY="0" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0006" x="1950" y="1182" width="650" height="594" frameX="0" frameY="0" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0007" x="2600" y="1182" width="650" height="591" frameX="0" frameY="-3" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0008" x="2600" y="1182" width="650" height="591" frameX="0" frameY="-3" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0009" x="3250" y="1182" width="650" height="585" frameX="0" frameY="-9" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0010" x="3250" y="1182" width="650" height="585" frameX="0" frameY="-9" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0011" x="3900" y="1182" width="650" height="582" frameX="0" frameY="-12" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0012" x="4550" y="1182" width="650" height="582" frameX="0" frameY="-12" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0013" x="5200" y="1182" width="650" height="578" frameX="0" frameY="-16" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0014" x="5850" y="1182" width="650" height="567" frameX="0" frameY="-27" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0015" x="6500" y="1182" width="651" height="567" frameX="0" frameY="-27" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0016" x="7151" y="1182" width="651" height="563" frameX="0" frameY="-31" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0017" x="7151" y="1182" width="651" height="563" frameX="0" frameY="-31" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0018" x="0" y="1776" width="650" height="563" frameX="0" frameY="-31" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0019" x="650" y="1776" width="650" height="565" frameX="0" frameY="-29" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0020" x="1300" y="1776" width="650" height="565" frameX="0" frameY="-29" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0021" x="1950" y="1776" width="650" height="574" frameX="0" frameY="-20" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0022" x="1950" y="1776" width="650" height="574" frameX="0" frameY="-20" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0023" x="2600" y="1776" width="650" height="580" frameX="0" frameY="-14" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0024" x="3250" y="1776" width="650" height="580" frameX="0" frameY="-14" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0025" x="3250" y="1776" width="650" height="580" frameX="0" frameY="-14" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0026" x="3900" y="1776" width="650" height="582" frameX="0" frameY="-12" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0027" x="4550" y="1776" width="650" height="582" frameX="0" frameY="-12" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0028" x="5200" y="1776" width="650" height="584" frameX="0" frameY="-10" frameWidth="651" frameHeight="594"/>
+	<SubTexture name="Dance Idle0029" x="5200" y="1776" width="650" height="584" frameX="0" frameY="-10" frameWidth="651" frameHeight="594"/>
+</TextureAtlas>

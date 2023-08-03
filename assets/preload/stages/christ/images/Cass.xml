@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cass.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cass0000" x="2" y="2" width="347" height="623" frameX="0" frameY="-74" frameWidth="347" frameHeight="697"/>
+	<SubTexture name="Cass0001" x="2" y="2" width="347" height="623" frameX="0" frameY="-74" frameWidth="347" frameHeight="697"/>
+	<SubTexture name="Cass0002" x="351" y="2" width="345" height="633" frameX="-1" frameY="-64" frameWidth="347" frameHeight="697"/>
+	<SubTexture name="Cass0003" x="351" y="2" width="345" height="633" frameX="-1" frameY="-64" frameWidth="347" frameHeight="697"/>
+	<SubTexture name="Cass0004" x="698" y="2" width="344" height="639" frameX="-2" frameY="-58" frameWidth="347" frameHeight="697"/>
+	<SubTexture name="Cass0005" x="698" y="2" width="344" height="639" frameX="-2" frameY="-58" frameWidth="347" frameHeight="697"/>
+	<SubTexture name="Cass0006" x="1044" y="2" width="343" height="655" frameX="-2" frameY="-42" frameWidth="347" frameHeight="697"/>
+	<SubTexture name="Cass0007" x="1044" y="2" width="343" height="655" frameX="-2" frameY="-42" frameWidth="347" frameHeight="697"/>
+	<SubTexture name="Cass0008" x="1389" y="2" width="343" height="662" frameX="-2" frameY="-35" frameWidth="347" frameHeight="697"/>
+	<SubTexture name="Cass0009" x="1389" y="2" width="343" height="662" frameX="-2" frameY="-35" frameWidth="347" frameHeight="697"/>
+	<SubTexture name="Cass0010" x="2" y="666" width="343" height="674" frameX="-2" frameY="-23" frameWidth="347" frameHeight="697"/>
+	<SubTexture name="Cass0011" x="2" y="666" width="343" height="674" frameX="-2" frameY="-23" frameWidth="347" frameHeight="697"/>
+	<SubTexture name="Cass0012" x="347" y="666" width="343" height="697" frameX="-2" frameY="0" frameWidth="347" frameHeight="697"/>
+	<SubTexture name="Cass0013" x="347" y="666" width="343" height="697" frameX="-2" frameY="0" frameWidth="347" frameHeight="697"/>
+</TextureAtlas>

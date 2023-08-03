@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Dance Idle",
+	"confirm_anim": "Dance Idle",
+	"position": [
+		80,
+		120
+	],
+	"scale": 0.55,
+	"image": "amTakeGfXMass"
+}

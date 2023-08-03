@@ -1,0 +1,32 @@
+{
+	"storyName": "komi talks no fucking way",
+	"hideFreeplay": false,
+	"weekBackground": "obed",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"phone-call",
+			"komi",
+			[
+				195,
+				173,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "phone-call",
+	"difficulties": "Normal, Hard",
+	"hiddenUntilUnlocked": false
+}

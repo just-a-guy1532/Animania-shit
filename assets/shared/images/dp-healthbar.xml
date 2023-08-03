@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dp-healthbar.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dp-healthbar0000" x="8" y="8" width="701" height="39"/>
+	<SubTexture name="dp-healthbar0001" x="8" y="8" width="701" height="39"/>
+	<SubTexture name="dp-healthbar0002" x="8" y="55" width="701" height="39"/>
+	<SubTexture name="dp-healthbar0003" x="8" y="55" width="701" height="39"/>
+	<SubTexture name="dp-healthbar0004" x="8" y="102" width="700" height="39" frameX="0" frameY="0" frameWidth="701" frameHeight="39"/>
+	<SubTexture name="dp-healthbar0005" x="8" y="102" width="700" height="39" frameX="0" frameY="0" frameWidth="701" frameHeight="39"/>
+</TextureAtlas>

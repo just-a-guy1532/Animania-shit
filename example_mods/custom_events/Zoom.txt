@@ -1,0 +1,2 @@
+Zooms the camera in.
+Value 1: Zoom amount

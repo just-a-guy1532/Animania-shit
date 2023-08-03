@@ -1,0 +1,171 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				47,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tadanodown"
+		},
+		{
+			"offsets": [
+				35,
+				115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tadanoup"
+		},
+		{
+			"offsets": [
+				55,
+				88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "tadanoidle"
+		},
+		{
+			"offsets": [
+				22,
+				91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tadanoright"
+		},
+		{
+			"offsets": [
+				54,
+				95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tadanoleft"
+		},
+		{
+			"offsets": [
+				92,
+				107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro",
+			"indices": [],
+			"name": "tadanointro"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				98
+			],
+			"anim": "walk",
+			"fps": 24,
+			"name": "tadanowalk",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				113
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "missup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				62
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "missdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				88
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "missright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				108
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "missleft",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				85,
+				109
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "FUCKYOU",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"healthicon_scale": 1,
+	"gameover_properties": [
+		"tadano-dead",
+		"fx_dead_phone_call",
+		"dead_phone_call_sex_music",
+		"dead_phone_call_sex_music_press"
+	],
+	"image": "characters/Komi/TadanoPCbig",
+	"position": [
+		-400,
+		50
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		125,
+		110,
+		199
+	],
+	"healthicon": "tadano",
+	"flip_x": true,
+	"healthbar_colors": [
+		125,
+		110,
+		199
+	],
+	"camera_position": [
+		-190,
+		-100
+	],
+	"sing_duration": 9.99999999999999,
+	"scale": 1
+}

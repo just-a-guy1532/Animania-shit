@@ -1,0 +1,74 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-113,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "dedconfirm"
+		},
+		{
+			"offsets": [
+				-233,
+				-409
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "dedloop"
+		},
+		{
+			"offsets": [
+				0,
+				-400
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "firstded"
+		}
+	],
+	"no_antialiasing": false,
+	"healthicon_scale": 1,
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/Komi/TadanoPCdeath",
+	"position": [
+		-600,
+		-400
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		125,
+		110,
+		199
+	],
+	"healthicon": "tadano",
+	"flip_x": true,
+	"healthbar_colors": [
+		125,
+		110,
+		199
+	],
+	"camera_position": [
+		-600,
+		-2200
+	],
+	"sing_duration": 4,
+	"scale": 1
+
+
+}

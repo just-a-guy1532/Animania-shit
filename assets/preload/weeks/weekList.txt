@@ -1,0 +1,4 @@
+week-phone
+week-komi
+week-slime
+week-gurren

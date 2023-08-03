@@ -1,0 +1,11 @@
+{
+	"name": "picoNoodles",
+	"image": "piconoodle",
+    "position": [240, 460],
+    "scale": 0.8,
+    "antialiasing": true,
+	"animation": "idle",
+	"looped": true,
+    "fps": 24,
+	"sex": 1
+}

@@ -1,0 +1,149 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				65,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				33,
+				102
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				80
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				31,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				58,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				80
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "missD",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				80
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "missA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				80
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "missB",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				80
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "missC",
+			"indices": []
+		},
+		{
+			"offsets": [
+				110,
+				249
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "sex"
+		}
+	],
+	"no_antialiasing": false,
+	"healthicon_scale": 1,
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/Komi/tadano",
+	"position": [
+		-760,
+		190
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		125,
+		110,
+		199
+	],
+	"healthicon": "tadano",
+	"flip_x": true,
+	"healthbar_colors": [
+		125,
+		110,
+		199
+	],
+	"camera_position": [
+		-340,
+		-290
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

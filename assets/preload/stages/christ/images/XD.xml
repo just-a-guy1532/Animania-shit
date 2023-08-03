@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="XD.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="juz0000" x="2" y="2" width="311" height="354" frameX="0" frameY="-8" frameWidth="311" frameHeight="362"/>
+	<SubTexture name="juz0001" x="2" y="2" width="311" height="354" frameX="0" frameY="-8" frameWidth="311" frameHeight="362"/>
+	<SubTexture name="juz0002" x="315" y="2" width="311" height="358" frameX="0" frameY="-4" frameWidth="311" frameHeight="362"/>
+	<SubTexture name="juz0003" x="315" y="2" width="311" height="358" frameX="0" frameY="-4" frameWidth="311" frameHeight="362"/>
+	<SubTexture name="juz0004" x="628" y="2" width="309" height="361" frameX="-1" frameY="-1" frameWidth="311" frameHeight="362"/>
+	<SubTexture name="juz0005" x="628" y="2" width="309" height="361" frameX="-1" frameY="-1" frameWidth="311" frameHeight="362"/>
+	<SubTexture name="juz0006" x="939" y="2" width="307" height="362" frameX="-2" frameY="0" frameWidth="311" frameHeight="362"/>
+	<SubTexture name="juz0007" x="939" y="2" width="307" height="362" frameX="-2" frameY="0" frameWidth="311" frameHeight="362"/>
+	<SubTexture name="juz0008" x="939" y="2" width="307" height="362" frameX="-2" frameY="0" frameWidth="311" frameHeight="362"/>
+	<SubTexture name="juz0009" x="939" y="2" width="307" height="362" frameX="-2" frameY="0" frameWidth="311" frameHeight="362"/>
+	<SubTexture name="juz0010" x="939" y="2" width="307" height="362" frameX="-2" frameY="0" frameWidth="311" frameHeight="362"/>
+	<SubTexture name="juz0011" x="939" y="2" width="307" height="362" frameX="-2" frameY="0" frameWidth="311" frameHeight="362"/>
+	<SubTexture name="juz0012" x="939" y="2" width="307" height="362" frameX="-2" frameY="0" frameWidth="311" frameHeight="362"/>
+</TextureAtlas>

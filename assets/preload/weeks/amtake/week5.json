@@ -1,0 +1,35 @@
+{
+	"storyName": "RED SNOW",
+	"difficulties": "erect",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week4",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Cocoa",
+			"parents",
+			[
+				160,
+				209,
+				255
+			]
+		],
+		[
+			"Eggnog",
+			"parents",
+			[
+				160,
+				209,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"amtakeparents",
+		"amtakeboyfriend",
+		"amtakegfxmass"
+	],
+	"weekName": "Week 5"
+}

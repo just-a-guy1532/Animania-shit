@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="zone.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="zona0000" x="2" y="2" width="359" height="713" frameX="0" frameY="-11" frameWidth="359" frameHeight="724"/>
+	<SubTexture name="zona0001" x="2" y="2" width="359" height="713" frameX="0" frameY="-11" frameWidth="359" frameHeight="724"/>
+	<SubTexture name="zona0002" x="363" y="2" width="355" height="717" frameX="-2" frameY="-7" frameWidth="359" frameHeight="724"/>
+	<SubTexture name="zona0003" x="363" y="2" width="355" height="717" frameX="-2" frameY="-7" frameWidth="359" frameHeight="724"/>
+	<SubTexture name="zona0004" x="720" y="2" width="349" height="722" frameX="-5" frameY="-2" frameWidth="359" frameHeight="724"/>
+	<SubTexture name="zona0005" x="720" y="2" width="349" height="722" frameX="-5" frameY="-2" frameWidth="359" frameHeight="724"/>
+	<SubTexture name="zona0006" x="1071" y="2" width="347" height="724" frameX="-6" frameY="0" frameWidth="359" frameHeight="724"/>
+	<SubTexture name="zona0007" x="1071" y="2" width="347" height="724" frameX="-6" frameY="0" frameWidth="359" frameHeight="724"/>
+	<SubTexture name="zona0008" x="1071" y="2" width="347" height="724" frameX="-6" frameY="0" frameWidth="359" frameHeight="724"/>
+	<SubTexture name="zona0009" x="1071" y="2" width="347" height="724" frameX="-6" frameY="0" frameWidth="359" frameHeight="724"/>
+	<SubTexture name="zona0010" x="1071" y="2" width="347" height="724" frameX="-6" frameY="0" frameWidth="359" frameHeight="724"/>
+	<SubTexture name="zona0011" x="1071" y="2" width="347" height="724" frameX="-6" frameY="0" frameWidth="359" frameHeight="724"/>
+	<SubTexture name="zona0012" x="1071" y="2" width="347" height="724" frameX="-6" frameY="0" frameWidth="359" frameHeight="724"/>
+	<SubTexture name="zona0013" x="1071" y="2" width="347" height="724" frameX="-6" frameY="0" frameWidth="359" frameHeight="724"/>
+</TextureAtlas>

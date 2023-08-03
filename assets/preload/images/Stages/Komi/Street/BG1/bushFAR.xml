@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bushFAR.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bushFAR0000" x="10" y="10" width="335" height="383"/>
+	<SubTexture name="bushFAR0001" x="10" y="10" width="335" height="383"/>
+	<SubTexture name="bushFAR0002" x="10" y="452" width="335" height="383"/>
+	<SubTexture name="bushFAR0003" x="10" y="452" width="335" height="383"/>
+</TextureAtlas>

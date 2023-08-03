@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Idle",
+	"image": "amTakeParents",
+	"position": [
+		430,
+		300
+	],
+	"flipX": false,
+	"scale": 0.35,
+	"confirm_anim": "M Dad Idle"
+}

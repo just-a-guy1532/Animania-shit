@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_quit.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="quit basic0000" x="2" y="2" width="388" height="129"/>
+	<SubTexture name="quit basic0001" x="2" y="2" width="388" height="129"/>
+	<SubTexture name="quit basic0002" x="2" y="2" width="388" height="129"/>
+	<SubTexture name="quit basic0003" x="392" y="2" width="388" height="129"/>
+	<SubTexture name="quit basic0004" x="392" y="2" width="388" height="129"/>
+	<SubTexture name="quit basic0005" x="392" y="2" width="388" height="129"/>
+	<SubTexture name="quit white0000" x="2" y="133" width="406" height="155" frameX="8" frameY="18" frameWidth="406" frameHeight="155"/>
+	<SubTexture name="quit white0001" x="2" y="133" width="406" height="155" frameX="8" frameY="18" frameWidth="406" frameHeight="155"/>
+	<SubTexture name="quit white0002" x="410" y="133" width="410" height="155" frameX="10" frameY="18" frameWidth="410" frameHeight="155"/>
+	<SubTexture name="quit white0003" x="410" y="133" width="410" height="155" frameX="10" frameY="18" frameWidth="410" frameHeight="155"/>
+</TextureAtlas>

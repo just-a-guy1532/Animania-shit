@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="amTakeParents.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="2" y="2" width="998" height="972" frameX="0" frameY="-7" frameWidth="998" frameHeight="979"/>
+	<SubTexture name="Idle0001" x="2" y="2" width="998" height="972" frameX="0" frameY="-7" frameWidth="998" frameHeight="979"/>
+	<SubTexture name="Idle0002" x="1002" y="2" width="994" height="946" frameX="-1" frameY="-33" frameWidth="998" frameHeight="979"/>
+	<SubTexture name="Idle0003" x="1002" y="2" width="994" height="946" frameX="-1" frameY="-33" frameWidth="998" frameHeight="979"/>
+	<SubTexture name="Idle0004" x="1998" y="2" width="992" height="961" frameX="-2" frameY="-18" frameWidth="998" frameHeight="979"/>
+	<SubTexture name="Idle0005" x="1998" y="2" width="992" height="961" frameX="-2" frameY="-18" frameWidth="998" frameHeight="979"/>
+	<SubTexture name="Idle0006" x="2992" y="2" width="979" height="977" frameX="-2" frameY="-2" frameWidth="998" frameHeight="979"/>
+	<SubTexture name="Idle0007" x="2992" y="2" width="979" height="977" frameX="-2" frameY="-2" frameWidth="998" frameHeight="979"/>
+	<SubTexture name="Idle0008" x="2" y="981" width="976" height="979" frameX="-2" frameY="0" frameWidth="998" frameHeight="979"/>
+	<SubTexture name="Idle0009" x="2" y="981" width="976" height="979" frameX="-2" frameY="0" frameWidth="998" frameHeight="979"/>
+	<SubTexture name="Idle0010" x="980" y="981" width="976" height="979" frameX="-2" frameY="0" frameWidth="998" frameHeight="979"/>
+	<SubTexture name="Idle0011" x="980" y="981" width="976" height="979" frameX="-2" frameY="0" frameWidth="998" frameHeight="979"/>
+	<SubTexture name="Idle0012" x="1958" y="981" width="976" height="979" frameX="-2" frameY="0" frameWidth="998" frameHeight="979"/>
+	<SubTexture name="Idle0013" x="1958" y="981" width="976" height="979" frameX="-2" frameY="0" frameWidth="998" frameHeight="979"/>
+</TextureAtlas>

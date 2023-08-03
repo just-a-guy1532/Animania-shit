@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="henchman_eggnog.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="henchman fall0000" x="2" y="2" width="1184" height="805" frameX="-1009" frameY="-676" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0001" x="1188" y="2" width="1184" height="805" frameX="-1009" frameY="-676" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0002" x="2374" y="2" width="1247" height="815" frameX="-974" frameY="-659" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0003" x="3623" y="2" width="1497" height="899" frameX="-732" frameY="-563" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0004" x="5122" y="2" width="1497" height="943" frameX="-732" frameY="-519" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0005" x="6621" y="2" width="1559" height="1381" frameX="-658" frameY="-87" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0006" x="2" y="1385" width="1615" height="1468" frameX="-602" frameY="0" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0007" x="1619" y="1385" width="1608" height="1588" frameX="-602" frameY="0" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0008" x="3229" y="1385" width="1664" height="1587" frameX="-546" frameY="-1" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0009" x="4895" y="1385" width="1609" height="1590" frameX="-574" frameY="-1" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0010" x="6506" y="1385" width="1664" height="1774" frameX="-453" frameY="-23" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0011" x="2" y="3161" width="1594" height="2058" frameX="-422" frameY="-23" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0012" x="1598" y="3161" width="1819" height="1525" frameX="-359" frameY="-37" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0013" x="3419" y="3161" width="1753" height="1365" frameX="-319" frameY="-89" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0014" x="5174" y="3161" width="1738" height="1436" frameX="-217" frameY="-190" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0015" x="2" y="5221" width="1713" height="1377" frameX="-217" frameY="-249" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0016" x="1717" y="5221" width="1939" height="1364" frameX="0" frameY="-345" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0017" x="3658" y="5221" width="754" height="932" frameX="-1172" frameY="-456" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0018" x="4414" y="5221" width="620" height="892" frameX="-1172" frameY="-753" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0019" x="5036" y="5221" width="554" height="577" frameX="-1099" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0020" x="5592" y="5221" width="552" height="698" frameX="-1046" frameY="-819" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0021" x="6146" y="5221" width="401" height="344" frameX="-995" frameY="-1266" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0022" x="6549" y="5221" width="373" height="291" frameX="-987" frameY="-1469" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0023" x="6549" y="5221" width="373" height="291" frameX="-987" frameY="-1469" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0024" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0025" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0026" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0027" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0028" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0029" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0030" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0031" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0032" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0033" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0034" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0035" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0036" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0037" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0038" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0039" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0040" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0041" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0042" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0043" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0044" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0045" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0046" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0047" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0048" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman fall0049" x="6924" y="5221" width="0" height="0" frameX="-1176" frameY="-789" frameWidth="2229" frameHeight="2081"/>
+	<SubTexture name="henchman walk0000" x="6926" y="5221" width="1231" height="768" frameX="-1" frameY="0" frameWidth="1237" frameHeight="768"/>
+	<SubTexture name="henchman walk0001" x="6926" y="5221" width="1231" height="768" frameX="-1" frameY="0" frameWidth="1237" frameHeight="768"/>
+	<SubTexture name="henchman walk0002" x="2" y="6600" width="1235" height="764" frameX="0" frameY="-4" frameWidth="1237" frameHeight="768"/>
+	<SubTexture name="henchman walk0003" x="2" y="6600" width="1235" height="764" frameX="0" frameY="-4" frameWidth="1237" frameHeight="768"/>
+	<SubTexture name="henchman walk0004" x="1239" y="6600" width="1234" height="761" frameX="-3" frameY="-7" frameWidth="1237" frameHeight="768"/>
+	<SubTexture name="henchman walk0005" x="1239" y="6600" width="1234" height="761" frameX="-3" frameY="-7" frameWidth="1237" frameHeight="768"/>
+	<SubTexture name="henchman walk0006" x="2475" y="6600" width="1234" height="761" frameX="-3" frameY="-7" frameWidth="1237" frameHeight="768"/>
+	<SubTexture name="henchman walk0007" x="2475" y="6600" width="1234" height="761" frameX="-3" frameY="-7" frameWidth="1237" frameHeight="768"/>
+</TextureAtlas>

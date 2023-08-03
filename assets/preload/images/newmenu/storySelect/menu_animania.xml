@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_animania.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="animania basic0000" x="2" y="2" width="651" height="619"/>
+	<SubTexture name="animania basic0001" x="2" y="2" width="651" height="619"/>
+	<SubTexture name="animania basic0002" x="2" y="2" width="651" height="619"/>
+	<SubTexture name="animania basic0003" x="655" y="2" width="651" height="619"/>
+	<SubTexture name="animania basic0004" x="655" y="2" width="651" height="619"/>
+	<SubTexture name="animania basic0005" x="655" y="2" width="651" height="619"/>
+	<SubTexture name="animania white0000" x="2" y="623" width="677" height="620" frameX="14" frameY="0" frameWidth="677" frameHeight="620"/>
+	<SubTexture name="animania white0001" x="2" y="623" width="677" height="620" frameX="14" frameY="0" frameWidth="677" frameHeight="620"/>
+	<SubTexture name="animania white0002" x="681" y="623" width="678" height="620" frameX="15" frameY="0" frameWidth="678" frameHeight="620"/>
+	<SubTexture name="animania white0003" x="681" y="623" width="678" height="620" frameX="15" frameY="0" frameWidth="678" frameHeight="620"/>
+</TextureAtlas>

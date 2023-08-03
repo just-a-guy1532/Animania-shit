@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu-fallstripes.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="vind0000" x="2" y="2" width="978" height="917" frameX="-11" frameY="-113" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0001" x="982" y="2" width="978" height="917" frameX="-11" frameY="-57" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0002" x="1962" y="2" width="989" height="1015" frameX="0" frameY="-29" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0003" x="2953" y="2" width="989" height="1081" frameX="0" frameY="-5" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0004" x="3944" y="2" width="989" height="1022" frameX="0" frameY="-8" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0005" x="4935" y="2" width="989" height="861" frameX="0" frameY="-113" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0006" x="5926" y="2" width="989" height="1040" frameX="0" frameY="-56" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0007" x="6917" y="2" width="989" height="1081" frameX="0" frameY="0" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0008" x="2" y="1085" width="989" height="992" frameX="0" frameY="-32" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0009" x="993" y="1085" width="989" height="1006" frameX="0" frameY="-61" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0010" x="1984" y="1085" width="989" height="1019" frameX="0" frameY="-27" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0011" x="2975" y="1085" width="989" height="1046" frameX="0" frameY="-35" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0012" x="3966" y="1085" width="989" height="1028" frameX="0" frameY="-16" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0013" x="4957" y="1085" width="989" height="1063" frameX="0" frameY="-21" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0014" x="5948" y="1085" width="989" height="1018" frameX="0" frameY="-10" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0015" x="2" y="2" width="978" height="917" frameX="-11" frameY="-113" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0016" x="982" y="2" width="978" height="917" frameX="-11" frameY="-57" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0017" x="1962" y="2" width="989" height="1015" frameX="0" frameY="-29" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0018" x="2953" y="2" width="989" height="1081" frameX="0" frameY="-5" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0019" x="3944" y="2" width="989" height="1022" frameX="0" frameY="-8" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0020" x="4935" y="2" width="989" height="861" frameX="0" frameY="-113" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0021" x="5926" y="2" width="989" height="1040" frameX="0" frameY="-56" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0022" x="6917" y="2" width="989" height="1081" frameX="0" frameY="0" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0023" x="2" y="1085" width="989" height="992" frameX="0" frameY="-32" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0024" x="993" y="1085" width="989" height="1006" frameX="0" frameY="-61" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0025" x="1984" y="1085" width="989" height="1019" frameX="0" frameY="-27" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0026" x="2975" y="1085" width="989" height="1046" frameX="0" frameY="-35" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0027" x="3966" y="1085" width="989" height="1028" frameX="0" frameY="-16" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0028" x="4957" y="1085" width="989" height="1063" frameX="0" frameY="-21" frameWidth="989" frameHeight="1096"/>
+	<SubTexture name="vind0029" x="5948" y="1085" width="989" height="1018" frameX="0" frameY="-10" frameWidth="989" frameHeight="1096"/>
+</TextureAtlas>

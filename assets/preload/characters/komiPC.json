@@ -1,0 +1,116 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				45,
+				91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "komiup"
+		},
+		{
+			"offsets": [
+				28,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "komidown"
+		},
+		{
+			"offsets": [
+				40,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "komiidle"
+		},
+		{
+			"offsets": [
+				37,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "komiright"
+		},
+		{
+			"offsets": [
+				42,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "komileft"
+		},
+		{
+			"offsets": [
+				40,
+				103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cat",
+			"indices": [],
+			"name": "komicat"
+		},
+		{
+			"offsets": [
+				42,
+				83
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "end",
+			"loop": false,
+			"name": "endspeech"
+		}
+	],
+	"no_antialiasing": false,
+	"healthicon_scale": 1,
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/Komi/KomiPC",
+	"position": [
+		680,
+		220
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		150,
+		65,
+		255
+	],
+	"healthicon": "komi",
+	"flip_x": false,
+	"healthbar_colors": [
+		150,
+		65,
+		255
+	],
+	"camera_position": [
+		-470,
+		-110
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

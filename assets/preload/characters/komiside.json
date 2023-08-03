@@ -1,0 +1,112 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				68
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				89
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				81
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				79
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-29,
+				185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro",
+			"indices": [],
+			"name": "intro"
+		},
+		{
+			"offsets": [
+				95,
+				84
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "SPEEEEN",
+			"indices": [],
+			"name": "KOMISPIN"
+		},
+		{
+			"offsets": [
+				41,
+				96
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "cat",
+			"loop": false,
+			"name": "cat"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Komi/OLD/KomiSide",
+	"position": [
+		1210,
+		100
+	],
+	"healthicon": "komi",
+	"healthicon_scale": 1,
+	"flip_x": false,
+	"healthbar_colors": [
+		150,
+		65,
+		255
+	],
+	"camera_position": [
+		-470,
+		-110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="title-gf.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf fall 0000" x="2" y="2" width="519" height="618" frameX="-2" frameY="0" frameWidth="523" frameHeight="621"/>
+	<SubTexture name="gf fall 0001" x="523" y="2" width="523" height="611" frameX="0" frameY="-10" frameWidth="523" frameHeight="621"/>
+	<SubTexture name="gf fall 0002" x="1048" y="2" width="517" height="605" frameX="-2" frameY="-13" frameWidth="523" frameHeight="621"/>
+</TextureAtlas>

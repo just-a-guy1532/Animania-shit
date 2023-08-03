@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KomiICON.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="komidown0000" x="10" y="10" width="130" height="106" frameX="-1" frameY="-13" frameWidth="131" frameHeight="120"/>
+	<SubTexture name="komidown0001" x="148" y="10" width="128" height="113" frameX="-1" frameY="-7" frameWidth="131" frameHeight="120"/>
+	<SubTexture name="komidown0002" x="148" y="10" width="128" height="113" frameX="-1" frameY="-7" frameWidth="131" frameHeight="120"/>
+	<SubTexture name="komidown0003" x="284" y="10" width="125" height="119" frameX="0" frameY="0" frameWidth="131" frameHeight="120"/>
+	<SubTexture name="komidown0004" x="284" y="10" width="125" height="119" frameX="0" frameY="0" frameWidth="131" frameHeight="120"/>
+	<SubTexture name="komidown0005" x="10" y="137" width="125" height="119" frameX="0" frameY="0" frameWidth="131" frameHeight="120"/>
+	<SubTexture name="komidown0006" x="10" y="137" width="125" height="119" frameX="0" frameY="0" frameWidth="131" frameHeight="120"/>
+	<SubTexture name="komiidlelose0000" x="143" y="137" width="126" height="120"/>
+	<SubTexture name="komiidlenormal0000" x="277" y="137" width="125" height="118"/>
+	<SubTexture name="komileft0000" x="10" y="265" width="133" height="117" frameX="0" frameY="0" frameWidth="138" frameHeight="119"/>
+	<SubTexture name="komileft0001" x="151" y="265" width="130" height="116" frameX="-6" frameY="-2" frameWidth="138" frameHeight="119"/>
+	<SubTexture name="komileft0002" x="151" y="265" width="130" height="116" frameX="-6" frameY="-2" frameWidth="138" frameHeight="119"/>
+	<SubTexture name="komileft0003" x="289" y="265" width="125" height="118" frameX="-12" frameY="-1" frameWidth="138" frameHeight="119"/>
+	<SubTexture name="komileft0004" x="289" y="265" width="125" height="118" frameX="-12" frameY="-1" frameWidth="138" frameHeight="119"/>
+	<SubTexture name="komileft0005" x="10" y="391" width="126" height="118" frameX="-12" frameY="-1" frameWidth="138" frameHeight="119"/>
+	<SubTexture name="komileft0006" x="10" y="391" width="126" height="118" frameX="-12" frameY="-1" frameWidth="138" frameHeight="119"/>
+	<SubTexture name="komiright0000" x="144" y="391" width="125" height="113" frameX="-9" frameY="-4" frameWidth="134" frameHeight="119"/>
+	<SubTexture name="komiright0001" x="277" y="391" width="127" height="115" frameX="-4" frameY="-3" frameWidth="134" frameHeight="119"/>
+	<SubTexture name="komiright0002" x="277" y="391" width="127" height="115" frameX="-4" frameY="-3" frameWidth="134" frameHeight="119"/>
+	<SubTexture name="komiright0003" x="10" y="517" width="125" height="119" frameX="-1" frameY="0" frameWidth="134" frameHeight="119"/>
+	<SubTexture name="komiright0004" x="10" y="517" width="125" height="119" frameX="-1" frameY="0" frameWidth="134" frameHeight="119"/>
+	<SubTexture name="komiright0005" x="143" y="517" width="126" height="119" frameX="0" frameY="0" frameWidth="134" frameHeight="119"/>
+	<SubTexture name="komiright0006" x="143" y="517" width="126" height="119" frameX="0" frameY="0" frameWidth="134" frameHeight="119"/>
+	<SubTexture name="komiup0000" x="277" y="517" width="119" height="124" frameX="-3" frameY="0" frameWidth="126" frameHeight="126"/>
+	<SubTexture name="komiup0001" x="10" y="649" width="124" height="121" frameX="-1" frameY="-3" frameWidth="126" frameHeight="126"/>
+	<SubTexture name="komiup0002" x="10" y="649" width="124" height="121" frameX="-1" frameY="-3" frameWidth="126" frameHeight="126"/>
+	<SubTexture name="komiup0003" x="142" y="649" width="126" height="119" frameX="0" frameY="-6" frameWidth="126" frameHeight="126"/>
+	<SubTexture name="komiup0004" x="142" y="649" width="126" height="119" frameX="0" frameY="-6" frameWidth="126" frameHeight="126"/>
+	<SubTexture name="komiup0005" x="276" y="649" width="126" height="119" frameX="0" frameY="-7" frameWidth="126" frameHeight="126"/>
+	<SubTexture name="komiup0006" x="276" y="649" width="126" height="119" frameX="0" frameY="-7" frameWidth="126" frameHeight="126"/>
+</TextureAtlas>
