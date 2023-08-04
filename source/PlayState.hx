@@ -1156,14 +1156,16 @@ class PlayState extends MusicBeatState
 		add(healthBar);
 		healthBarBG.sprTracker = healthBar;
 
-	        if(SONG.song.ToLowerCase == "Cocoa", "Eggnog"){
+	        //if(SONG.song.ToLowerCase == "Cocoa", "Eggnog"){ im dumb,i forgot how to code -justaguy
+	        if (SONG.song.toLowerCase() == 'cocoa' | 'eggnog' ) //exact code -justaguy
+		{
 	        healthBar = new FlxBar(healthBarBG.x + 4, healthBarBG.y + 4, RIGHT_TO_LEFT, Std.int(healthBarBG.width - 8), Std.int(healthBarBG.height - 8), this,
 			'health', 0, 2);
 		healthBar.scrollFactor.set();
 		healthBar.createFilledBar(0xFFFF0000, 0xFF66FF33);
 		// healthBar
 		add(healthBar);
-		}
+		} //credit to KadeDev for the healthbar because im a way too dumb to code like that yet
 
 		iconP1 = new HealthIcon(boyfriend.healthIcon, true);
 		iconP1.y = healthBar.y - 75;
