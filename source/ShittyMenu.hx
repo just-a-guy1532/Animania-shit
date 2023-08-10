@@ -178,7 +178,7 @@ class ShittyMenu extends MusicBeatState
 									spr.kill();
 								}
 							});
-            }
+                                                }
 							{
 								var daChoice:String = optionShit[curSelected];
 
@@ -187,20 +187,13 @@ class ShittyMenu extends MusicBeatState
 									case 'story':
 										MusicBeatState.switchState(new StoryMenuState());
 									case 'animania':
-										FlxG.sound.play(Paths.sound('scrollMenu')); 
+										FlxG.sound.play(Paths.sound('no_press1'));
+										trace('no bruh')
 								}
-							});
-						}
-					});
-				}
-			}
-			#if (desktop || android)
-			else if (FlxG.keys.anyJustPressed(debugKeys) #if android || _virtualpad.buttonE.justPressed #end)
-			{
-				selectedSomethin = true;
-				MusicBeatState.switchState(new MasterEditorMenu());
-			}
-			#end
+							};
+					}
+				  
+							  
 		}
 
 		super.update(elapsed);
